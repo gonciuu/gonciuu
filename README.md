@@ -78,6 +78,9 @@
 ![F-Y-E-F's github stats](https://github-readme-stats.vercel.app/api?username=F-Y-E-F&show_icons=true&theme=dracula)
 <br />
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Y-E-F&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 😎 Live quote
 
 > Many of life’s failures are people who did not realize how close they were to success when they gave up.
