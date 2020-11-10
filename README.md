@@ -58,3 +58,26 @@
 <br />
 ### 🕐 My Activity in this week
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@FY/210a89e1-3b82-483e-8d6f-692b1406e593.png" /></a>
+<br />
+<br />
+### 📋 My Latest Projects 
+
+- [Medicines App in Flutter](https://github.com/F-Y-E-F/Medicine-App-In-Flutter)
+- [Control Yeelight via Python and Kotlin App](https://github.com/F-Y-E-F/Control-Yeelight-via-Python)
+- [Medled - medicine app in kotlin](https://github.com/F-Y-E-F/medled)
+- [Hangman-game-in-flutter](https://github.com/F-Y-E-F/Hangman-game-in-flutter)
+
+➡ [more projects...](https://github.com/F-Y-E-F?tab=repositories)
+
+---
+
+### 💻 Github stats
+
+![F-Y-E-F's github stats](https://github-readme-stats.vercel.app/api?username=F-Y-E-F&show_icons=true&theme=dracula)
+
+<br />
+<br />
+
+
+
+
