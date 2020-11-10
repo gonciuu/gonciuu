@@ -1,8 +1,8 @@
 ## Hello, I'm Kacper 👋
 
-[![Reddit](https://img.shields.io/website?label=My%20Reddit&style=for-the-badge&logo=reddit&color=important&url=https://google.com)](https://google.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/idkddddddddfdjewisghe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://google.com)
-[![Linkedin](https://img.shields.io/website?label=My%20Linkedin&style=for-the-badge&logo=linkedin&color=green&url=https://google.com)](https://google.com)
+[![Reddit](https://img.shields.io/website?label=My%20Reddit&style=for-the-badge&logo=reddit&color=important&url=https://www.reddit.com/user/FYEF)](https://www.reddit.com/user/FYEF)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kacper_wojak?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kacper_wojak)
+[![Linkedin](https://img.shields.io/website?label=My%20Linkedin&style=for-the-badge&logo=linkedin&color=green&url=https://www.linkedin.com/in/kacper-wojak-9174821bb/)](https://www.linkedin.com/in/kacper-wojak-9174821bb/)
 
 ### I'm a young polish developer
 
