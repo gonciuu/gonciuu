@@ -51,11 +51,11 @@
 
 ---
 ### 📊 This week I spent time on  
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@FY/f776f49b-5e04-4698-9528-4e2e99134500.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@FY/f776f49b-5e04-4698-9528-4e2e99134500.png" width="60%"/></a>
 <br />
 <br />
 ### 🕐 My Activity in this week
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@FY/210a89e1-3b82-483e-8d6f-692b1406e593.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@FY/210a89e1-3b82-483e-8d6f-692b1406e593.png" width="60%" /></a>
 <br />
 <br />
 ### 📋 My Latest Projects 
