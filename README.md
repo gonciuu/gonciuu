@@ -31,12 +31,10 @@
 [<img align="left" alt="Gradle" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png" />](https://docs.gradle.org/current/userguide/userguide.html)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://docs.microsoft.com/en-us/windows/terminal/)
 
-
-
-<br />
-<br />
-
-
+<br>
+<br>
+<br>
+<br>
 
 <details>
 
@@ -55,9 +53,6 @@
 
 </details>
 
-
-
----
 
 <details>
 
