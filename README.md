@@ -4,19 +4,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/kacper_wojak?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kacper_wojak)
 [![Linkedin](https://img.shields.io/website?label=My%20Linkedin&style=for-the-badge&logo=linkedin&color=green&url=https://www.linkedin.com/in/kacper-wojak-9174821bb/)](https://www.linkedin.com/in/kacper-wojak-9174821bb/)
 
-### I'm a young polish developer
-
-
-- 🔭 I’m currently working on control xiaomi yellight from my own kotlin app
-- 🌱 I’m currently learning flutter
-- 🏁 I just finished my [Medicines App in Flutter](https://github.com/F-Y-E-F/Medicine-App-In-Flutter)
-- 📚 I'd like to learn Swift in the future
-- 📫 How to reach me: contact me on every social media
-- 💬 Ask me about mobile programming
-- 😄 Pronouns: Good mood and learning new things
-- ⚡ Fun fact: I love cats 😺
-
-
 ### Connect with me:
 
 
@@ -49,15 +36,58 @@
 <br />
 <br />
 
+
+
+<details>
+
+<summary>:raising_hand_man: Info About Me</summary>
+
+### I'm a young polish developer
+
+- 🔭 I’m currently working on control xiaomi yellight from my own kotlin app
+- 🌱 I’m currently learning flutter
+- 🏁 I just finished my [Medicines App in Flutter](https://github.com/F-Y-E-F/Medicine-App-In-Flutter)
+- 📚 I'd like to learn Swift in the future
+- 📫 How to reach me: contact me on every social media
+- 💬 Ask me about mobile programming
+- 😄 Pronouns: Good mood and learning new things
+- ⚡ Fun fact: I love cats 😺
+
+</details>
+
+
+
 ---
+
+<details>
+
+<summary> :computer: My Coding Activity</summary>
+
 ### 📊 This week I spent time on  
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@FY/f776f49b-5e04-4698-9528-4e2e99134500.png" width="60%"/></a>
 <br />
 <br />
 ### 🕐 My Activity in this week
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@FY/210a89e1-3b82-483e-8d6f-692b1406e593.png" width="60%" /></a>
+
+</details>
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+### 💻 Github stats
+
+![F-Y-E-F's github stats](https://github-readme-stats.vercel.app/api?username=F-Y-E-F&show_icons=true&theme=dracula)
 <br />
-<br />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Y-E-F&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+---
+
 ### 📋 My Latest Projects 
 
 - [Medicines App in Flutter](https://github.com/F-Y-E-F/Medicine-App-In-Flutter)
@@ -69,13 +99,6 @@
 
 ---
 
-### 💻 Github stats
-
-![F-Y-E-F's github stats](https://github-readme-stats.vercel.app/api?username=F-Y-E-F&show_icons=true&theme=dracula)
-<br />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Y-E-F&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 😎 Live quote
 
