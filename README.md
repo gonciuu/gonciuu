@@ -20,7 +20,7 @@
 [<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />](https://kotlinlang.org/docs/reference/)
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />](https://flutter.dev/docs)
 [<img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />](https://www.jetbrains.com/idea/)
-[<img align="left" alt="Andorid Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" />](https://developer.android.com/studio)
+[<img align="left" alt="Andorid Studio" width="26px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" />](https://developer.android.com/studio)
 [<img align="left" alt="Andorid" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />](https://developer.android.com/reference)
 [<img align="left" alt="YAML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" />](https://yaml.org/spec/1.2/spec.html)
 [<img align="left" alt="XML" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/xml-file-2330558-1950399.png"/>](https://developer.android.com/guide/topics/ui/declaring-layout)
