@@ -74,11 +74,11 @@
 
 ### 💻 Github stats
 
-![F-Y-E-F's github stats](https://github-readme-stats.vercel.app/api?username=F-Y-E-F&show_icons=true&theme=dracula)
+![F-Y-E-F's github stats](https://github-readme-stats.vercel.app/api?username=gonciuu&show_icons=true&theme=dracula)
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Y-E-F&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonciuu&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
