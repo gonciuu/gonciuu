@@ -16,7 +16,7 @@ I'm a mobile developer with extensive experience in Flutter. My journey began wi
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
 <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white
-"/> <img src="https://img.shields.io/badge/fastlane-123456?style=for-the-badge&logo=fastlane&logoColor=white" />
+"/> 
 <img src="https://img.shields.io/badge/Firebase-EB743B?style=for-the-badge&logo=Firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
