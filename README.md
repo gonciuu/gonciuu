@@ -2,7 +2,7 @@
 
 ### Flutter mobile developer 💙📱
 
-I'm a mobile developer with extensive experience in Flutter. My journey began with Android development, leading me to Flutter's versatile cross-platform environment, where I specialize in creating apps for both iOS and Android.
+I'm a mobile developer with extensive experience in Flutter, having developed numerous commercial applications. My journey began with Android development, leading me to Flutter's versatile cross-platform environment. Here, I specialize in creating user-friendly, efficient apps for both iOS and Android, tailored to meet the specific needs and goals.
 
 ### 🛠 Tech Stack
 
@@ -27,20 +27,32 @@ I'm a mobile developer with extensive experience in Flutter. My journey began wi
 
 For a deeper dive into the technologies I use most in my projects, check out my Medium profile. I regularly write articles explaining various aspects of mobile development, focusing on Flutter and related technologies. These articles offer insights into how I approach development challenges, optimize performance, and leverage the latest trends to build efficient and innovative applications.
 
-🔗 Read My Articles on Medium: [Check out my medium profile](https://medium.com/@gonciu)
+🔗 Read My Articles on Medium: [Check out my medium profile](https://gonciu.medium.com)
 
 ### 📬 Contact Me
 
-I'm always excited about new opportunities and collaborations! If you have any questions, want to discuss potential projects, or simply say hello, feel free to reach out. Here are the best ways to contact me:
+I'm always excited about new opportunities and collaborations! If you have any questions, want to discuss potential projects, or simply say hello, feel free to reach out. I'm always happy to chat!
 
 - Email: [kacperwojak17@gmail.com](mailto:kacperwojak17@gmail.com)
 
-- LinkedIn: [Kacper Wojak](https://www.linkedin.com/in/kacper-wojak/)
-
-- Reddit: [gonciu](https://www.reddit.com/user/FYEF)
-
 Additionally, I invite you to visit my personal website where you can find more information about my projects, skills, and experience:
 
-🌐 My Portfolio: [My Potfolio](https://portfolio-gonciuu.vercel.app/)
+🌐 For more visit my portfolio website: <b>[Potfolio website](https://portfolio-gonciuu.vercel.app/)</b>
 
-<br>
+Or check out my socials:
+
+<div>
+  <a href="https://www.linkedin.com/in/kacper-wojak">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.reddit.com/user/FYEF">
+   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+  </a>
+   <a href="https://gonciu.medium.com">
+   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+<div>
+
+### 🚀 Looking Ahead
+
+As I continue to explore new horizons in mobile development, my goal is to not only build impactful applications but also to contribute to the growth and knowledge of the Flutter community.
