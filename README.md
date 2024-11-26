@@ -37,7 +37,7 @@ I'm always excited about new opportunities and collaborations! If you have any q
 
 Additionally, I invite you to visit my personal website where you can find more information about my projects, skills, and experience:
 
-🌐 For more visit my portfolio website: <b>[Potfolio website](https://portfolio-phi-five-57.vercel.app/)</b>
+🌐 For more visit my portfolio website: <b>[Potfolio website](https://gonciu.dev)</b>
 
 Or check out my socials:
 
