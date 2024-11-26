@@ -33,7 +33,7 @@ For a deeper dive into the technologies I use most in my projects, check out my 
 
 I'm always excited about new opportunities and collaborations! If you have any questions, want to discuss potential projects, or simply say hello, feel free to reach out. I'm always happy to chat!
 
-- Email: [kacperwojak17@gmail.com](mailto:kacperwojak17@gmail.com)
+- Email: [collab@gonciu.dev](mailto:collab@gonciu.dev)
 
 Additionally, I invite you to visit my personal website where you can find more information about my projects, skills, and experience:
 
